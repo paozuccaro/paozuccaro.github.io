@@ -1,0 +1,85 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link href='https://fonts.googleapis.com/css?family=Poppins:500' rel='stylesheet' type='text/css'>
+	<script src="https://use.typekit.net/bto5dgc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	<style>
+
+	body {
+		background-image: url(white_wall_hash_@2X.png);
+		font-family: "source-sans-pro",sans-serif;
+		text-align: center;
+		margin: 0;
+	}
+	
+	p {
+		font-family: "source-sans-pro",sans-serif;
+	}
+
+	#about-me p {
+		max-width: 500px;
+		margin: 0 auto;
+	}
+	
+
+	a {
+		font-family: "source-sans-pro",sans-serif;
+		text-decoration: none;
+		font-size: 17px;
+		color: #B62953;
+	}
+	
+	h2, h1 {
+		font-family: 'Poppins', sans-serif;;
+		font-size: 30px;
+	}
+
+	#about-me {
+		background-color: #f2f2f2;
+		color: black;
+		padding: 60px;
+		margin-top: 50px;
+	}
+
+	#what-i-do {
+		background-color: #E3E3E3;
+		color: black;
+		padding: 60px;
+	}
+
+	#what-i-do p {
+		max-width: 500px;
+		margin: 0 auto;
+	}
+	
+
+	</style>
+</head>
+<body>
+<a href="index.html">Home</a> | <a href="about.html">About me</a> | <a href="contact.html">Contact me</a> | <a href="portfolio.html">Portfolio</a>
+
+<center><img class=" wp-image-19688 aligncenter" src="http://paolasbookshelf.com/wp-content/uploads/2016/04/logo3.png" alt="logo3" width="284" height="149" /></center>
+<h2>Hello world!</h2>
+<p>My site is under construction<p>
+
+
+<section id="about-me">
+<h1>⦁ About Me ⦁</h1>
+<p>I'm a Venezuelan photography student based in Miami, Florida and I specialize in product and still life photography.</p>
+</section>
+
+<section id="what-i-do">
+<h1>⦁ What I Do ⦁</h1>
+<p>Editorial Photography</p>
+<p>Still life Photography</p>
+</section>
+
+</body>
+<br>
+<footer>
+<center><a href="https://twitter.com/paozuccaro" target="_blank"><img class=" wp-image-19691 alignleft" src="http://paolasbookshelf.com/wp-content/uploads/2016/05/TwitterLogo.png" alt="TwitterLogo" width="40" height="40" /></a><a href="https://www.instagram.com/paolazphotography/" target="_blank"><img class=" wp-image-19692 alignleft" src="http://paolasbookshelf.com/wp-content/uploads/2016/05/InstagramLogo.png" alt="InstagramLogo" width="40" height="40" /></a><a href="https://www.linkedin.com/in/paolazuccaro" target="_blank"><img class=" wp-image-19690 alignleft" src="http://paolasbookshelf.com/wp-content/uploads/2016/05/LinkedinLogo.png" alt="LinkedinLogo" width="40" height="40" /></a>
+<p>Copyright © Paola Zuccaro 2016<p></center>
+</footer>
+</html>
